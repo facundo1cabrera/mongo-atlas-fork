@@ -21,7 +21,7 @@ En esta guía te explico cómo instalar y configurar el plugin **Zoom Meeting** 
 ### 4. Levantar Moodle en tu entorno local
    - Para levantar Moodle en tu máquina, podés seguir el video explicativo en el siguiente enlace:
      
-     [Video explicativo de cómo levantar Moodle en local](https://www.youtube.com/watch?v=0folHDpIFqM).
+     https://www.youtube.com/watch?v=0folHDpIFqM
 
    - Asegurate de configurar Moodle en el puerto que prefieras. Por defecto, se usa el puerto 80.
 
