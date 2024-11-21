@@ -83,3 +83,19 @@ Estas opciones se pueden ajustar según lo que necesites para tu curso.
 
 Con estos pasos, ya deberías poder integrar las reuniones de Zoom en tu plataforma Moodle local.
 
+## Tareas a realizar:
+
+- Entrá a la API de Zoom con una cuenta paga.
+Buscá la reunión usando el ID que te da la base de datos del plugin de Zoom de Moodle.
+Obtener participantes
+
+- Encontrá a los participantes desde la API de Zoom.
+Insertá los datos de los participantes en las tablas del plugin de Moodle.
+Descargar la grabación
+
+- Seleccioná la reunión y usá el link de descarga que te da la API de Zoom.
+Bajá la grabación y guardala en un repositorio de Google Drive.
+Configurá las credenciales del repositorio para habilitar los permisos necesarios.
+Eliminar la grabación de Zoom
+
+- Usá el endpoint que te da la API de Zoom para borrar la grabación.
